@@ -15,5 +15,8 @@ knitr::opts_chunk$set(
 ```
 
 
+```{r}
+pkgdown::build_site()
+```
 
 
